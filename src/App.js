@@ -3,7 +3,7 @@ import CounterPage from "./components/counterPage";
 function App(){
     return(
         <div>
-            <CounterPage  initial={10} /> 
+            <CounterPage  initialCount={10} /> 
         </div>
                      
     );
